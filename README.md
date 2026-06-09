@@ -6,7 +6,7 @@ Focus Study é um aplicativo mobile prototipado no Figma para ajudar estudantes 
 ## Grupo
 - Eduardo Faria Braga
 - Arthur regis sousa nery
-
+- Pedro Vitor Vaz Ribeiro
 ## Protótipo no Figma
 https://www.figma.com/design/iwOBPMnnR5Ly5stycR5bL1/Focus-Study?node-id=0-1&t=4bl3bXOOA7OP2m5M-1
 
