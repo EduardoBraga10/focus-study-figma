@@ -2,7 +2,8 @@
 
 
 **Projeto:** [focus-study]
-**Grupo:** [Eduardo Faria Braga, Arthur regis sousa nery]
+**Grupo:** [Eduardo Faria Braga, Arthur regis sousa nery, Pedro Vitor Vaz Ribeiro
+]
 **Disciplina:** IAUC — IF Goiano Campus Iporá — 2026/1
 
 
