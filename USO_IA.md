@@ -1,10 +1,10 @@
 # Registro de Uso de Inteligência Artificial
 
 
-Projeto: focus-study
-Grupo: Eduardo Faria Braga, Arthur regis sousa nery, Pedro Vitor Vaz Ribeiro
+**Projeto:** focus-study
+**Grupo:** Eduardo Faria Braga, Arthur regis sousa nery, Pedro Vitor Vaz Ribeiro
 
-Disciplina: IAUC — IF Goiano Campus Iporá — 2026/1
+**Disciplina:** IAUC — IF Goiano Campus Iporá — 2026/1
 
 
 ## Ferramentas utilizadas
@@ -21,21 +21,21 @@ Foi utilizada para sugerir nomes, fazer a logo e dar ideias de designer
 
 ### Interação 1
 
-**Prompt:** [Dê ideias de nomes para um aplicativo que ajude estudantes a ter foco.]
-**Resultado:** [Foram sugeridos diversos nomes relacionados à produtividade e organização dos estudos.]
-**O que fizemos:** [Analisamos as sugestões e mantivemos o nome Focus Study por representar melhor a proposta do aplicativo.]
+**Prompt:** Dê ideias de nomes para um aplicativo que ajude estudantes a ter foco.
+**Resultado:** Foram sugeridos diversos nomes relacionados à produtividade e organização dos estudos.
+**O que fizemos:** Analisamos as sugestões e mantivemos o nome Focus Study por representar melhor a proposta do aplicativo.
 
 ### Interação 2
 
-**Prompt:** [Crie uma logo para um app com o nome focus-study]
-**Resultado:** [foi criado a logo com base no prompt]
-**O que fizemos:** [Analisamos a logo e usamos no app aplicativo.]
+**Prompt:** Crie uma logo para um app com o nome focus-study.
+**Resultado:** Foi criado a logo com base no prompt.
+**O que fizemos:** Analisamos a logo e usamos no app aplicativo.
 
 ### Interação 3
 
-**Prompt:** [Faça uma tela home de um app focado em foco e produtividade que tenha a cor azul e branco.]
-**Resultado:** [Foi criado imagens que usamos como inspiração.]
-**O que fizemos:** [Foi criado imagens que usamos como base para criar nosso projeto.]
+**Prompt:** Faça uma tela home de um app focado em foco e produtividade que tenha a cor azul e branco.
+**Resultado:** Foi criado imagens que usamos como inspiração.
+**O que fizemos:** Foi criado imagens que usamos como base para criar nosso projeto.
 
 
 ## Reflexão crítica
