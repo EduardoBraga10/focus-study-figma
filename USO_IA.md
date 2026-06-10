@@ -1,10 +1,10 @@
 # Registro de Uso de Inteligência Artificial
 
 
-**Projeto:** [focus-study]
-**Grupo:** [Eduardo Faria Braga, Arthur regis sousa nery, Pedro Vitor Vaz Ribeiro
-]
-**Disciplina:** IAUC — IF Goiano Campus Iporá — 2026/1
+Projeto: focus-study
+Grupo: Eduardo Faria Braga, Arthur regis sousa nery, Pedro Vitor Vaz Ribeiro
+
+Disciplina: IAUC — IF Goiano Campus Iporá — 2026/1
 
 
 ## Ferramentas utilizadas
