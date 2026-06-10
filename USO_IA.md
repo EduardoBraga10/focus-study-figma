@@ -21,12 +21,9 @@
 
 ### Interação 1
 
-**Prompt:** 
-[Dê ideias de nomes para um aplicativo que ajude estudantes a ter foco.]
-**Resultado:** 
-[Foram sugeridos diversos nomes relacionados à produtividade e organização dos estudos.]
-**O que fizemos:** 
-[Analisamos as sugestões e mantivemos o nome Focus Study por representar melhor a proposta do aplicativo.]
+**Prompt:** [Dê ideias de nomes para um aplicativo que ajude estudantes a ter foco.]
+**Resultado:** [Foram sugeridos diversos nomes relacionados à produtividade e organização dos estudos.]
+**O que fizemos:** [Analisamos as sugestões e mantivemos o nome Focus Study por representar melhor a proposta do aplicativo.]
 
 ### Interação 2
 
