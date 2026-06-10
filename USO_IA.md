@@ -9,12 +9,12 @@ Disciplina: IAUC — IF Goiano Campus Iporá — 2026/1
 
 ## Ferramentas utilizadas
 
-- [Claude]
-- [ChatGPT]
+- Claude
+- ChatGPT
 
 ## Etapas em que a IA foi utilizada
 
-[Foi utilizada para sugerir nomes, fazer a logo e dar ideias de designer]
+Foi utilizada para sugerir nomes, fazer a logo e dar ideias de designer
 
 
 ## Principais prompts e resultados
